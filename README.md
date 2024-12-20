@@ -1,4 +1,4 @@
-###**Music Streaming Application**
+<span style="font-size:24px;"><b>Music Streaming Application<b></span>
 
 **Overview**
 
