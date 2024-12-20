@@ -15,6 +15,7 @@ React.js for building the UI Material-UI For different modern UI components
 
 
 A glimpse:
+
 Add new albums & View albums
 ![image](https://github.com/user-attachments/assets/a9abdcea-c044-4cf5-81e1-641b5257e801)
 
