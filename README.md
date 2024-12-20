@@ -6,10 +6,10 @@ The Music Streaming Application created using SpringBoot, Hibernate, React allow
 **TechStack:**
 
 - **Backend:**
-SpringBoot for creating RESTful APIs Hibernate for database schema management & Object-Relational Mapping(ORM). Relational database: MySQL
+SpringBoot for creating RESTful APIs, Hibernate for database schema management & Object-Relational Mapping(ORM), Relational database: MySQL
 
 - **Frontend**:
-React.js for building the UI Material-UI For different modern UI components
+React.js for building the UI, and Material-UI For different modern UI components
 
 *Configure the backend application.properties with your own credentials.*
 
